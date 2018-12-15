@@ -1,0 +1,10 @@
+Product................GFS_1_DEGREE
+Date...................20180610
+Model run cycle........00
+Levels.................ALL,
+Variables..............TMP,4LFTX,
+Spatial extent:
+leftlon................12
+rightlon...............24
+toplat.................36
+bottomlat..............12
